@@ -1,11 +1,11 @@
-# Hi, I'm Denis 👋
+# Hi, I'm Denis 
 
 ## 💫 About Me
 
-🎓 3rd-year Automation and Computer Science student at "Gheorghe Asachi" Technical University of Iași<br>
-🛡️ Currently learning cybersecurity: networking, Linux and hands-on labs on TryHackMe<br>
-🤝 Looking to collaborate on cybersecurity projects<br>
-⚡ Competitive, hardworking and always building something
+ 3rd-year Automation and Computer Science student at "Gheorghe Asachi" Technical University of Iași<br>
+ Currently learning cybersecurity: networking, Linux and hands-on labs on TryHackMe<br>
+ Looking to collaborate on cybersecurity projects<br>
+ Competitive, hardworking and always building something
 
 ## 🚀 Projects
 
