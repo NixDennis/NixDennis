@@ -15,6 +15,14 @@
 | [Port Scanner](https://github.com/NixDennis/Port-Scanner) | TCP port scanner with banner grabbing, written in pure Python |
 | [Denis Cyber Lab](https://github.com/NixDennis/Denis-Cyber-Lab) | My home lab: TryHackMe progress, notes, Python scripts and VirtualBox experiments |
 
+## 👾 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixDennis/NixDennis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixDennis/NixDennis/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NixDennis/NixDennis/output/pacman-contribution-graph.svg">
+</picture>
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denis-ignat/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idenniiss5)
